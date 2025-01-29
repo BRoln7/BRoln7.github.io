@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <div class='paper-box'><div class='paper-box-image'><a href="https://broln7.github.io/NavIsaacLab-web/">
-<img src='../files/isaaclab.png'xalt="sym" width="100%"></a></div>
+<img src='files/isaaclab.png'xalt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
 
 [NavIsaacLab]([www.blank](https://broln7.github.io/NavIsaacLab-web/))

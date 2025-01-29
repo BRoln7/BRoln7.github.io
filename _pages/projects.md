@@ -9,10 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-<div class='paper-box'><div class='paper-box-image'><a href="https://sites.google.com/view/oclrpf"><img src='files/ocl_rpf.gif' alt="sym" width="100%"></a></div>
+<div class='paper-box'><div class='paper-box-image'><a href="https://broln7.github.io/NavIsaacLab-web/">
+<img src='files/isaaclab.png' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
 
-[NavIsaacLab](www.blank)
+[NavIsaacLab]([www.blank](https://broln7.github.io/NavIsaacLab-web/))
 ---
 
 Bingyi Xia<sup>1</sup>, <u>Han Bao</u><sup>1</sup>, ..., Yuhan Pang, Guangcheng chen, Wenjun Xu, Jiankun Wang

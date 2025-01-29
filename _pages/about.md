@@ -5,7 +5,7 @@ I am a Master's student at the Robotics Perception and Intelligence Lab, Souther
 # Publications
 
 # Education
-<div style="display: flex; align-items: center; margin-bottom: 10px;"> <img src="https://via.placeholder.com/50x50?text=SUSTech" alt="SUSTech Logo" width="50" style="margin-right: 10px;"> <div> 
+<div style="display: flex; align-items: center; margin-bottom: 10px;"> <img src="https://imgur.com/a/g4q9k7u" alt="SUSTech Logo" width="50" style="margin-right: 10px;"> <div> 
   <strong>Southern University of Science and Technology (SUSTech)</strong><br> 
     <em>M.Eng. in Electronic and Electrical Engineering</em><br>
   <strong>2024 - Present</strong>

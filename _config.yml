@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Han Bao/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Han Bao"
-description              : &description "A graduate student at SUSTech"
+description              : "Working on Robot Motion Planning"
 url                      : https://BRoln7.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BRoln7/BRoln7.github.io"
@@ -25,7 +25,7 @@ author:
   name             : "Han Bao"
   pronouns         : # example: "she/her"  
   bio              : "A graduate student at SUSTech"
-  location         : "ShenZhen, China"
+  location         : "Shenzhen, China"
   uri              : # URL
   email            : "hill_bao77@outlook.com" 
 

@@ -11,3 +11,5 @@ I am a Master's student at the [Robotics Perception and Intelligence Lab](https:
 engineering from Zhejiang Univerisity of Technology, where I built the foundation for my robotics studies.
 
 My research interests lie in leveraging robot learning methods to achieve more efficient and robust robot motion planning. Currently, I am focusing on tackling the challenge of enabling efficient and natural robot navigation behaviors in dense human crowds.
+
+# 🔥 News

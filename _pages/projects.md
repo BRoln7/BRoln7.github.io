@@ -9,12 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- <div class='paper-box'><div class='paper-box-image'><a href="https://broln7.github.io/NavIsaacLab-web/">
-<img src='https://imgur.com/a/OjfVmxV' xalt="sym" width="100%"></a></div>
-<div class='paper-box-text' markdown="1"> -->
-
-<div class='paper-box'><div class='paper-box-image'>
-<img src='https://imgur.com/a/OjfVmxV' xalt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><a href="https://broln7.github.io/NavIsaacLab-web/">
+<img src='https://i.imgur.com/c0DohEJ.jpeg' xalt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
 
 [NavIsaacLab](https://broln7.github.io/NavIsaacLab-web/)

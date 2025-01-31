@@ -10,21 +10,17 @@ redirect_from:
 {% include base_path %}
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-
-  <div style="display: flex; align-items: center; width: 100%; max-width: 800px;">
+  <div style="display: flex; align-items: flex-start; width: 100%; max-width: 800px;">
     <div style="flex: 1; margin-right: 20px;">
-      <a href="https://broln7.github.io/NavIsaacLab-web/" target="_blank">
-        <img src="https://i.imgur.com/c0DohEJ.jpeg" alt="NavIsaacLab" style="max-width: 200%;">
+      <a href="https://broln7.github.io/NavIsaacLab-web/">
+        <img src='https://i.imgur.com/c0DohEJ.jpeg' alt="NavIsaacLab" style="max-width: 100%;">
       </a>
     </div>
-    <div style="flex: 2; padding: 5px;">
+    <div style="flex: 2;">
       <h2 style="margin-top: 0;">NavIsaacLab</h2>
-      <p>Bingyi Xia<sup>1</sup>, <u>Han Bao</u><sup>1</sup>, ..., Yuhan Pang, Guangcheng Chen, Wenjun Xu, Jiankun Wang</p>
+      <p>Bingyi Xia<sup>1</sup>, Han Bao<sup>1</sup>, ..., Yuhan Pang, Guangcheng Chen, Wenjun Xu, Jiankun Wang</p>
       <p>In Preparation</p>
     </div>
   </div>
-
-  <!-- Add more projects as needed -->
-  <!-- Example for another project -->
 
 </div>

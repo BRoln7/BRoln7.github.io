@@ -13,3 +13,24 @@ engineering from [Zhejiang Univerisity of Technology](https://www.zjut.edu.cn/),
 My research interests lie in leveraging robot learning methods to achieve more efficient and robust robot motion planning. Currently, I am focusing on tackling the challenge of enabling efficient and natural robot navigation behaviors in dense human crowds.
 
 # 🔥 News
+
+
+# 📖 Education
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://i.imgur.com/9ytib4N.png" alt="SUSTech Logo" width="50" style="margin-right: 10px;">
+  <div>
+    <strong>Southern University of Science and Technology (SUSTech)</strong><br>
+    <em>M.Sc. in Electrical and Electronic Engineering</em><br>
+    <strong>2024 - Present</strong><br>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://i.imgur.com/690F8JY.png" alt="ZJUT Logo" width="50" style="margin-right: 10px;">
+  <div>
+    <strong>Zhejiang University of Technology (ZJUT)</strong><br>
+    <em>B.Eng. in Robotics Engineering</em><br>
+    <strong>2020 - 2024</strong><br>
+  </div>
+</div>

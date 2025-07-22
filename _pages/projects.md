@@ -26,10 +26,10 @@ redirect_from:
   </div>
 
   <!-- Project 2 -->
-  <!-- <div style="display: flex; align-items: center; width: 100%; max-width: 800px;">
+  <div style="display: flex; align-items: center; width: 100%; max-width: 800px;">
     <div style="flex: 0 0 40%; height: 200px; background-color: #f0f0f0; margin-right: 20px;">
       <a href="https://example.com/another-project" target="_blank">
-        <img src="https://i.imgur.com/another-image.jpg" alt="Another Project" style="width: 100%; height: 100%;">
+        <img src="https://i.imgur.com/CZ29iuP.gif" alt="Another Project" style="width: 100%; height: 100%;">
       </a>
     </div>
     <div style="flex: 0 0 60%; padding: 20px;">
@@ -37,6 +37,6 @@ redirect_from:
       <p>Author 1, Author 2, Author 3</p>
       <p>Status: In Progress</p>
     </div>
-  </div> -->
+  </div>
 
 </div>

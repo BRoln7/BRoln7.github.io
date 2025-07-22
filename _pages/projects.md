@@ -28,8 +28,8 @@ redirect_from:
   <!-- Project 2 -->
   <div style="display: flex; align-items: center; width: 100%; max-width: 800px;">
     <div style="flex: 0 0 40%; height: 200px; background-color: #f0f0f0; margin-right: 20px;">
-      <a href="https://example.com/another-project" target="_blank">
-        <img src="https://i.imgur.com/CZ29iuP.gif" alt="Another Project" style="width: 100%; height: 100%;">
+      <a href="https://broln7.github.io/socialbev.io" target="_blank">
+        <img src="https://i.imgur.com/Hb0RNe7" alt="Another Project" style="width: 100%; height: 100%;">
       </a>
     </div>
     <div style="flex: 0 0 60%; padding: 20px;">

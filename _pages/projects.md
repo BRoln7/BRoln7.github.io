@@ -36,5 +36,4 @@ redirect_from:
       <h2 style="margin-top: 0;">Another Project</h2>
     </div>
   </div>
-
 </div>

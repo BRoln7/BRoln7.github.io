@@ -20,8 +20,8 @@ redirect_from:
     </div>
     <div style="flex: 0 0 80%; padding: 20px;">
       <h2 style="margin-top: 0;">NavIsaacLab</h2>
-      <!-- <p>Bingyi Xia<sup>1</sup>, <u>Han Bao</u><sup>1</sup>, ..., Yuhan Pang, Guangcheng Chen, Wenjun Xu, Jiankun Wang</p>
-      <p>In Preparation</p> -->
+      <!-- <p>Bingyi Xia<sup>1</sup>, <u>Han Bao</u><sup>1</sup>, ..., Yuhan Pang, Guangcheng Chen, Wenjun Xu, Jiankun Wang</p> -->
+      <p>In Preparation</p>
     </div>
   </div>
 

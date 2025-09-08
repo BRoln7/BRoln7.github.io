@@ -29,10 +29,10 @@ redirect_from:
   <div style="display: flex; align-items: center; width: 100%; max-width: 800px;">
     <div style="flex: 0 0 40%; height: 200px; background-color: #f0f0f0; margin-right: 20px;">
       <a href="https://broln7.github.io/socialbev.io/" target="_blank">
-        <img src="https://i.imgur.com/Hb0RNe7.png" alt="Social-BEV" style="width: 100%; height: 100%;">
+        <img src="https://i.imgur.com/7WhSGEy.png" alt="Social-BEV" style="width: 100%; height: 100%;">
       </a>
     </div>
-    <div style="flex: 0 0 60%; padding: 20px;">
+    <div style="flex: 0 0 60%; padding: 12px;">
       <h2 style="margin-top: 0;">Social-BEV</h2>
     </div>
   </div>

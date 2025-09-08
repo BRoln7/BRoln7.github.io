@@ -33,7 +33,7 @@ redirect_from:
       </a>
     </div>
     <div style="flex: 0 0 60%; padding: 12px;">
-      <h2 style="margin-top: 0;">Social-BEV</h2>
+      <h2 style="margin-top: 0; font-size: 1.0rem; color: #333;">Social-BEV:Learning Robotic Socially Compliant Navigation via Intention-Aware Scene Representations</h2>
     </div>
   </div>
 </div>

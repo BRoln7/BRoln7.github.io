@@ -32,8 +32,8 @@ redirect_from:
         <img src="https://i.imgur.com/7WhSGEy.png" alt="Social-BEV" style="width: 100%; height: 100%;">
       </a>
     </div>
-    <div style="flex: 0 0 60%; padding: 12px;">
-      <h2 style="margin-top: 0; font-size: 1.0rem; color: #333;">Social-BEV:Learning Robotic Socially Compliant Navigation via Intention-Aware Scene Representations</h2>
+    <div style="flex: 0 0 60%; padding: 20px;">
+      <h2 style="margin-top: 0; font-size: 0.8rem; color: #333;">Social-BEV: Learning Robotic Socially Compliant Navigation via Intention-Aware Scene Representations</h2>
     </div>
   </div>
 </div>

@@ -43,6 +43,6 @@ redirect_from:
       Social-BEV: Learning Socially Compliant Robot Navigation via Intention-Aware Scene Representations
     </h2>
     <p style="font-size: 0.8rem; color: #333;">
-      <u>Han Bao</u><sup>1</sup>, Bingyi Xia<sup>1</sup>, Hanjing Ye, Yu Zhan, Hao Cheng, Baozhi Jia, Wenjun Xu, Jiankun Wang
+      <u>Han Bao</u><sup>*</sup>, Bingyi Xia<sup>*</sup>, Hanjing Ye, Yu Zhan, Hao Cheng, Baozhi Jia, Wenjun Xu, Jiankun Wang
     </p>
   </div>

@@ -40,9 +40,9 @@ redirect_from:
     </div>
   <div style="flex: 0 0 80%; padding: 20px;">
     <h2 style="margin-top: 0; font-size: 1.0rem; color: #333;">
-      Social-BEV: Learning Robotic Socially Compliant Navigation via Intention-Aware Scene Representations
+      Social-BEV: Learning Socially Compliant Robot Navigation via Intention-Aware Scene Representations
     </h2>
     <p style="font-size: 0.8rem; color: #333;">
-      <u>Han Bao</u><sup>1</sup>, Bingyi Xia<sup>1</sup>, Hanjing Ye, Yu Zhan, Hao Cheng, Wenjun Xu, Jiankun Wang
+      <u>Han Bao</u><sup>1</sup>, Bingyi Xia<sup>1</sup>, Hanjing Ye, Yu Zhan, Hao Cheng, Baozhi Jia, Wenjun Xu, Jiankun Wang
     </p>
   </div>

@@ -50,7 +50,7 @@ redirect_from:
       <a href="https://arxiv.org/abs/xxxx.xxxxx" target="_blank" style="color: #007BFF; text-decoration: none; margin-right: 15px;">
         📄 Paper
       </a>
-      <a href="https://broln7.github.io/socialbev.io/" target="_blank" style="color: #007BFF; text-decoration: none;">
+      <a href="https://broln7.github.io/socialbev.io/" target="_blank" style="color: #007BFF; text-decoration: none; margin-right: 15px;">
         🌐 Site
       </a>
       <a href="https://github.com/BRoln7/socialbev_test/" target="_blank" style="color: #007BFF; text-decoration: none;">

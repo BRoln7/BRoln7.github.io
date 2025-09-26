@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## 🤖 Robot Navigation
+## 🏎️ Robot Navigation
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 

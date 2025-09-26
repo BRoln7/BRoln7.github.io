@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## 🏎️ Robot Navigation
+<hr style="width: 60%; margin: 0.5rem auto 1.5rem auto; border-top: 1px solid #ccc;">
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 

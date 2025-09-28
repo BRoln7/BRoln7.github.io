@@ -35,6 +35,6 @@ Upcoming update
   </div>
 </div>
 
-# 🏫 Services and Activities
+# 🏫 Services
 
 ICRA 2026 Reviewer

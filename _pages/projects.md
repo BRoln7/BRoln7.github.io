@@ -52,7 +52,7 @@ redirect_from:
       </p>
       <p style="margin: 5px 0 0 0; font-size: 0.8rem;">
         <a href="https://arxiv.org/abs/xxxx.xxxxx" target="_blank" style="color: #007BFF; text-decoration: none; margin-right: 15px;">
-          📄 Paper
+          📄 Preprint
         </a>
         <a href="https://broln7.github.io/socialbev.io/" target="_blank" style="color: #007BFF; text-decoration: none; margin-right: 15px;">
           🌐 Site

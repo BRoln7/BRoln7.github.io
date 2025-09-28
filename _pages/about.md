@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Master's student at the [Robotics Perception and Intelligence Lab](https://robotics.sustech.edu.cn/ch/index.aspx), [Southern University of Science and Technology](https://www.sustech.edu.cn/), advised by Professor [Jiankun Wang](https://scholar.google.com/citations?user=08U8joq2FOQC&hl=en&oi=ao). In 2024, I received my B.E. degree in robotics engineering from [Zhejiang University of Technology](https://www.zjut.edu.cn/), where I built the foundation for my studies in robotics.
 
-My research interests lie in leveraging robot learning methods to develop more efficient and robust robot navigation algorithms. Currently, I am addressing the challenge of enabling natural and effective robot navigation in crowded environments.
+My research interests lie in applying robot learning methods to develop more efficient and robust navigation algorithms. Currently, I am exploring how visual perception can enable safer and more effective robot navigation in dynamic and cluttered environments.
 
 # 🔥 News
 

@@ -35,6 +35,6 @@ Upcoming update
   </div>
 </div>
 
-<!-- # 🏫 Services and Activities
+# 🏫 Services and Activities
 
-IEEE ICIA 2025 Reviewer -->
+ICRA 2026 Reviewer

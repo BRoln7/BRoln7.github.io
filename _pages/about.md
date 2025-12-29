@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 <p align="justify">
-I am a Master's student at the 
-<a href="https://robotics.sustech.edu.cn/ch/index.aspx">Robotics Perception and Intelligence Lab</a>, 
+I am a Master's student at the <em>Robotics Perception &amp; Intelligence Lab (RPILab)</em>, 
 <a href="https://www.sustech.edu.cn/">Southern University of Science and Technology</a>, 
 advised by Professor 
 <a href="https://scholar.google.com/citations?user=08U8joq2FOQC&hl=en&oi=ao">Jiankun Wang</a>. 

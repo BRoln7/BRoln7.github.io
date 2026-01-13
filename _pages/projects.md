@@ -27,10 +27,13 @@ redirect_from:
     </div>
     <div style="flex: 0 0 80%; padding: 20px;">
       <h2 style="margin-top: 0; font-size: 1.0rem; color: #333;">
-        NavIssacLab: Generating Realistic Crowd via Parallel Robot Learning for Benchmarking Human-aware Navigation
+        NavIsaacLab: Generating Realistic Crowd via Parallel Robot Learning for Benchmarking Human-aware Navigation
       </h2>
       <p style="font-size: 0.8rem; color: #333;">
-        In preparation
+        Bingyi Xia<sup>*</sup>, <u>Han Bao</u><sup>*</sup>, Jingyu Zhu, Hanjing Ye, Yuhan Pang, Guangcheng Chen, Liang Lin, Zhengyou Zhang, Wenjun Xu, Jiankun Wang
+      </p>
+      <p style="font-size: 0.8rem; color: #333;">
+        <strong><em>Under review</em></strong>
       </p>
     </div>
   </div>
@@ -49,6 +52,9 @@ redirect_from:
       </h2>
       <p style="font-size: 0.8rem; color: #333;">
         <u>Han Bao</u><sup>*</sup>, Bingyi Xia<sup>*</sup>, Hanjing Ye, Yu Zhan, Hao Cheng, Baozhi Jia, Wenjun Xu, Jiankun Wang
+      </p>
+      <p style="font-size: 0.8rem; color: #333;">
+        <strong><em>Under review</em></strong>
       </p>
       <p style="margin: 5px 0 0 0; font-size: 0.8rem;">
         <a href="https://arxiv.org/abs/xxxx.xxxxx" target="_blank" style="color: #007BFF; text-decoration: none; margin-right: 15px;">

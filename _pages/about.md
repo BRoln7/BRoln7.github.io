@@ -30,7 +30,7 @@ Upcoming update
   <div>
     <strong>Southern University of Science and Technology (SUSTech)</strong><br>
     <em>M.Sc. in Electrical and Electronic Engineering</em><br>
-    <strong>2024 - Present</strong><br>
+    <strong>2024.9 - Present</strong><br>
   </div>
 </div>
 
@@ -39,7 +39,7 @@ Upcoming update
   <div>
     <strong>Zhejiang University of Technology (ZJUT)</strong><br>
     <em>B.Eng. in Robotics Engineering</em><br>
-    <strong>2020 - 2024</strong><br>
+    <strong>2020.10 - 2024.6</strong><br>
   </div>
 </div>
 

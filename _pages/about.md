@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 <p align="justify">
-I am a Master's student at the <em>Robotics Perception &amp; Intelligence Lab (rπ Lab)</em>, 
-<a href="https://www.sustech.edu.cn/">Southern University of Science and Technology</a>, 
-advised by Professor 
-<a href="https://scholar.google.com/citations?user=08U8joq2FOQC&hl=en&oi=ao">Jiankun Wang</a>. 
+I am a Master's student at the <em>Robotics Perception &amp; Intelligence Lab (rπ Lab)</em> at <a href="https://www.sustech.edu.cn/">SUSTech</a>. 
+The lab is co-led by Professors <a href=https://www.ee.cuhk.edu.hk/~qhmeng/about.html>Max Q.-H. Meng</a> and <a href="https://scholar.google.com/citations?user=08U8joq2FOQC&hl=en&oi=ao">Jiankun Wang</a>, 
+where I work under the supervision of Professor Wang.
+
 In 2024, I received my B.E. degree in robotics engineering from 
 <a href="https://www.zjut.edu.cn/">Zhejiang University of Technology</a>, 
 where I built the foundation for my studies in robotics. 

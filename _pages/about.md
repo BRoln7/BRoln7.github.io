@@ -15,13 +15,13 @@ where I work under the supervision of Professor Wang.
 In 2024, I received my B.E. degree in robotics engineering from 
 <a href="https://www.zjut.edu.cn/">Zhejiang University of Technology</a>, 
 where I built the foundation for my studies in robotics. 
-My research interests are in robot learning and robotics, with a current focus on learning-based robot visual navigation and human–robot collaboration.
+My research interests are in robot learning, with a current focus on learning-based robot visual navigation and reinforcement learning for robotics.
 </p>
 
 
 # 🔥 News
 
-Upcoming update
+- 2026.03: 🎉🎉🍺🍺 Our paper titled "Learning Robot Visual Navigation in Crowds via Intention-Aware Scene Representations" has been accepted by IEEE Robotics and Automation Letters (RA-L)!
 
 # 📖 Education
 
@@ -46,3 +46,4 @@ Upcoming update
 # 🏫 Services and Activities
 - IEEE Robotics and Automation Letters (RA-L) Reviewer
 - IEEE International Conference on Robotics & Automation (ICRA) Reviewer
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) Reviewer

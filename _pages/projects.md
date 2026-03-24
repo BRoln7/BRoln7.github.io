@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <div class="has-text-centered">
-  <h2 class="title is-3" style="text-align: center;">🚗 Robot Navigation</h2>
+  <h2 class="title is-3" style="text-align: center;">Robot Navigation</h2>
   <hr style="width: 60%; margin: 0.5rem auto 1.5rem auto; border-top: 1px solid #ccc;">
 </div>
 
@@ -54,12 +54,9 @@ redirect_from:
         <u>Han Bao</u><sup>*</sup>, Bingyi Xia<sup>*</sup>, Hanjing Ye, Yu Zhan, Hao Cheng, Baozhi Jia, Wenjun Xu, Jiankun Wang
       </p>
       <p style="font-size: 0.8rem; color: #333;">
-        <strong><em>Under review</em></strong>
+        <strong><em>IEEE Robotics and Automation Letters</em></strong>
       </p>
       <p style="margin: 5px 0 0 0; font-size: 0.8rem;">
-        <a href="https://arxiv.org/abs/xxxx.xxxxx" target="_blank" style="color: #007BFF; text-decoration: none; margin-right: 15px;">
-          📄 Preprint
-        </a>
         <a href="https://broln7.github.io/socialbev.io/" target="_blank" style="color: #007BFF; text-decoration: none; margin-right: 15px;">
           🌐 Site
         </a>

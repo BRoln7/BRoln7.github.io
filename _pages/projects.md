@@ -11,7 +11,10 @@ redirect_from:
 
 <div class="has-text-centered">
   <h2 class="title is-3" style="text-align: center;">Robot Navigation</h2>
-  <hr style="width: 60%; margin: 0.5rem auto 1.5rem auto; border-top: 1px solid #ccc;">
+  <hr style="width: 60%; margin: 0.5rem auto 0.5rem auto; border-top: 1px solid #ccc;">
+  <p style="text-align: center; font-size: 0.85rem; color: #666; margin-bottom: 1.5rem;">
+    (* indicates equal contribution)
+  </p>
 </div>
 
 

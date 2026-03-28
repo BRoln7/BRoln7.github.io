@@ -61,10 +61,13 @@ redirect_from:
       </p>
       <p style="margin: 5px 0 0 0; font-size: 0.8rem;">
         <a href="https://broln7.github.io/socialbev.io/" target="_blank" style="color: #007BFF; text-decoration: none; margin-right: 15px;">
-          🌐 Site
+          🌐 site
         </a>
-        <a href="https://github.com/BRoln7/socialbev_test/" target="_blank" style="color: #007BFF; text-decoration: none;">
-          💻 Code
+        <a href="https://github.com/BRoln7/socialbev_test/" target="_blank" style="color: #007BFF; text-decoration: none; margin-right: 15px;">
+          💻 code
+        </a>
+        <a href="https://ieeexplore.ieee.org/document/11456337" target="_blank" style="color: #007BFF; text-decoration: none; margin-right: 15px;">
+          🏷️ doi
         </a>
       </p>
     </div>

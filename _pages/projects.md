@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "📝 Projects"
+classes: wide
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -17,9 +18,9 @@ redirect_from:
   </p>
 </div>
 
-<div style="display: flex; flex-direction: column; gap: 40px; align-items: center;">
+<div style="display: flex; flex-direction: column; gap: 0px; align-items: center;">
 
-  <div style="display: flex; align-items: flex-start; width: 100%; max-width: 850px;">
+  <div style="display: flex; align-items: flex-start; width: 100%; max-width: 850px; padding-bottom: 20px;">
     <div style="flex: 0 0 35%; height: 180px; background-color: #f9f9f9; margin-right: 25px; 
                 box-shadow: 0 4px 10px rgba(0,0,0,0.1); border-radius: 6px; overflow: hidden;">
       <a href="https://broln7.github.io/NavIsaacLab-web/" target="_blank">
@@ -42,7 +43,9 @@ redirect_from:
     </div>
   </div>
 
-  <div style="display: flex; align-items: flex-start; width: 100%; max-width: 850px;">
+  <div style="width: 100%; max-width: 850px; border-top: 1px dashed #ddd; margin: 25px 0;"></div>
+
+  <div style="display: flex; align-items: flex-start; width: 100%; max-width: 850px; padding-top: 10px;">
     <div style="flex: 0 0 35%; height: 180px; background-color: #f9f9f9; margin-right: 25px; 
                 box-shadow: 0 4px 10px rgba(0,0,0,0.1); border-radius: 6px; overflow: hidden;">
       <a href="https://broln7.github.io/socialbev.io/" target="_blank">

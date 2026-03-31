@@ -35,7 +35,7 @@ redirect_from:
         Bingyi Xia<sup>*</sup>, <strong><u>Han Bao</u></strong><sup>*</sup>, Jingyu Zhu, Hanjing Ye, Yuhan Pang, Guangcheng Chen, Liang Lin, Zhengyou Zhang, Wenjun Xu, Jiankun Wang
       </p>
       <p style="font-size: 0.9rem; color: #999; margin-bottom: 12px; font-weight: 500;">
-        <em>Under review</em>
+        Under review
       </p>
       <!-- <div style="font-size: 0.85rem; font-family: 'Segoe UI', sans-serif;">
         <a href="https://broln7.github.io/NavIsaacLab-web/" target="_blank" style="color: #007BFF; text-decoration: none; font-weight: 500;">[Project]</a>
@@ -60,7 +60,7 @@ redirect_from:
         <strong><u>Han Bao</u></strong><sup>*</sup>, Bingyi Xia<sup>*</sup>, Hanjing Ye, Yu Zhan, Hao Cheng, Baozhi Jia, Wenjun Xu, Jiankun Wang
       </p>
       <p style="font-size: 0.9rem; color: #333; margin-bottom: 12px; font-weight: 600;">
-        <em>IEEE Robotics and Automation Letters (RA-L)</em>
+        IEEE Robotics and Automation Letters (RA-L)
       </p>
       <div style="font-size: 0.85rem; font-family: 'Segoe UI', sans-serif; display: flex; gap: 15px;">
         <a href="https://broln7.github.io/socialbev.io/" target="_blank" style="color: #007BFF; text-decoration: none; font-weight: 500;">[Project]</a>

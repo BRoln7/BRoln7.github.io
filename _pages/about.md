@@ -49,6 +49,6 @@ My research interests are in robot learning, with a current focus on learning-ba
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) Reviewer
 
 
-<div style="width:300px; margin: 0 auto;">
+<!-- <div style="width:300px; margin: 0 auto;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=FVoGNjkyaw7Wqe1HB0EFlCqRzdqgz6BmQrFYTt8Eqv0"></script>
-</div>
+</div> -->

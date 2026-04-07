@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 <div class="has-text-centered">
-  <h2 class="title is-3" style="text-align: center; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">Robot Navigation</h2>
+  <h2 class="title is-3" style="text-align: center; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">Robot Social Navigation</h2>
   <hr style="width: 50%; margin: 0.8rem auto 1.5rem auto; border-top: 1px solid #eee;">
   <p style="text-align: center; font-size: 0.85rem; color: #888; margin-bottom: 2rem;">
     (* indicates equal contribution)

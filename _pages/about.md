@@ -11,7 +11,9 @@ redirect_from:
 I am a Master's student at the <em>Robotics Perception &amp; Intelligence Lab (rπ Lab)</em> at <a href="https://www.sustech.edu.cn/">SUSTech</a>. 
 The lab is co-led by Professors <a href="https://www.ee.cuhk.edu.hk/~qhmeng/about.html">Max Q.-H. Meng</a> and <a href="https://scholar.google.com/citations?user=08U8joq2FOQC&hl=en&oi=ao">Jiankun Wang</a>, 
 where I work under the supervision of Professor Wang.
+</p>
 
+<p align="justify">
 In 2024, I received my B.E. degree in robotics engineering from 
 <a href="https://www.zjut.edu.cn/">Zhejiang University of Technology</a>, 
 where I built the foundation for my studies in robotics. 
@@ -29,7 +31,7 @@ My research interests are in robot learning, with a current focus on learning-ba
   <img src="https://i.imgur.com/9ytib4N.png" alt="SUSTech Logo" width="50" style="margin-right: 10px;">
   <div>
     <strong>Southern University of Science and Technology (SUSTech)</strong><br>
-    <em>M.Sc. in Electrical and Electronic Engineering</em><br>
+    M.Sc. in Electrical and Electronic Engineering<br>
     <strong>2024.9 - Present</strong><br>
   </div>
 </div>
@@ -38,12 +40,12 @@ My research interests are in robot learning, with a current focus on learning-ba
   <img src="https://i.imgur.com/690F8JY.png" alt="ZJUT Logo" width="50" style="margin-right: 10px;">
   <div>
     <strong>Zhejiang University of Technology (ZJUT)</strong><br>
-    <em>B.Eng. in Robotics Engineering</em><br>
+    B.Eng. in Robotics Engineering<br>
     <strong>2020.10 - 2024.6</strong><br>
   </div>
 </div>
 
-# 🏫 Services and Activities
+# 🏫 Services
 - IEEE Robotics and Automation Letters (RA-L) Reviewer
 - IEEE International Conference on Robotics & Automation (ICRA) Reviewer
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) Reviewer

@@ -32,7 +32,7 @@ My research interests are in robot learning, with a current focus on learning-ba
   <div>
     <strong>Southern University of Science and Technology (SUSTech)</strong><br>
     M.Sc. in Electrical and Electronic Engineering<br>
-    <strong>2024.9 - Present</strong><br>
+    2024.9 - Present<br>
   </div>
 </div>
 
@@ -40,15 +40,17 @@ My research interests are in robot learning, with a current focus on learning-ba
   <img src="https://i.imgur.com/690F8JY.png" alt="ZJUT Logo" width="50" style="margin-right: 10px;">
   <div>
     <strong>Zhejiang University of Technology (ZJUT)</strong><br>
-    B.Eng. in Robotics Engineering<br>
-    <strong>2020.10 - 2024.6</strong><br>
+    B.Eng. in Robotics<br>
+    2020.10 - 2024.6<br>
   </div>
 </div>
 
-# 🏫 Services
-- IEEE Robotics and Automation Letters (RA-L) Reviewer
-- IEEE International Conference on Robotics & Automation (ICRA) Reviewer
-- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) Reviewer
+# 🏫 Academic Service
+**Journal & Conference Reviewer**
+- IEEE Robotics and Automation Letters (RA-L)
+- IEEE Transactions on Automation Science and Engineering (T-ASE)
+- IEEE International Conference on Robotics and Automation (ICRA)
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
 
 <!-- <div style="width:300px; margin: 0 auto;">

@@ -21,11 +21,11 @@ My research interests are in robot learning, with a current focus on learning-ba
 </p>
 
 
-# 🔥 News
+## News
 
 - 2026.03: 🎉🎉🍺🍺 Our paper titled "Learning Robot Visual Navigation in Crowds via Intention-Aware Scene Representations" has been accepted by IEEE Robotics and Automation Letters (RA-L)!
 
-# 📖 Education
+## Education
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
   <img src="https://i.imgur.com/9ytib4N.png" alt="SUSTech Logo" width="50" style="margin-right: 10px;">
@@ -45,7 +45,7 @@ My research interests are in robot learning, with a current focus on learning-ba
   </div>
 </div>
 
-# 🏫 Academic Service
+## Academic Service
 **Journal & Conference Reviewer**
 - IEEE Robotics and Automation Letters (RA-L)
 - IEEE Transactions on Automation Science and Engineering (T-ASE)

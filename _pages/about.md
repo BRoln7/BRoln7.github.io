@@ -11,19 +11,18 @@ redirect_from:
 I am a Master's student at the <em>Robotics Perception &amp; Intelligence Lab (rπ Lab)</em> at <a href="https://www.sustech.edu.cn/">SUSTech</a>. 
 The lab is co-led by Professors <a href="https://www.ee.cuhk.edu.hk/~qhmeng/about.html">Max Q.-H. Meng</a> and <a href="https://scholar.google.com/citations?user=08U8joq2FOQC&hl=en&oi=ao">Jiankun Wang</a>, 
 where I work under the supervision of Professor Wang.
-</p>
-
-<p align="justify">
-In 2024, I received my B.E. degree in robotics engineering from 
-<a href="https://www.zjut.edu.cn/">Zhejiang University of Technology</a>, 
+In 2024, I received my B.E. degree in robotics from <a href="https://www.zjut.edu.cn/">Zhejiang University of Technology</a>, 
 where I built the foundation for my studies in robotics. 
-My research interests are in robot learning, with a current focus on learning-based robot visual navigation and reinforcement learning for robotics.
 </p>
-
+<p align="justify">
+My research interests are in robot learning, with a focus on embodied navigation and reinforcement learning for robotics. 
+Currently, I am working on developing an efficient, safe, and human-centric robot urban navigation system.
+</p>
 
 ## News
 
 - 2026.03: 🎉🎉🍺🍺 Our paper titled "Learning Robot Visual Navigation in Crowds via Intention-Aware Scene Representations" has been accepted by IEEE Robotics and Automation Letters (RA-L)!
+- 2025.01: My personal website is live!
 
 ## Education
 

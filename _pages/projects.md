@@ -11,7 +11,6 @@ redirect_from:
 {% include base_path %}
 
 
-  <!-- <hr style="width: 50%; margin: 0.8rem auto 1.5rem auto; border-top: 1px solid #eee;"> -->
   <p style="text-align: center; font-size: 1.0rem; color: #888; margin-bottom: 2rem;">
     * indicates equal contribution
   </p>
@@ -19,7 +18,7 @@ redirect_from:
 <div class="has-text-centered">
   <h2 class="title is-3" style="text-align: center; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">Robot Social Navigation</h2>
 </div>
-
+  <hr style="width: 50%; margin: 0.8rem auto 1.5rem auto; border-top: 1px solid #eee;">
 <div style="display: flex; flex-direction: column; gap: 0px; align-items: center;">
 
   <div style="display: flex; align-items: flex-start; width: 100%; max-width: 850px; padding-bottom: 20px;">

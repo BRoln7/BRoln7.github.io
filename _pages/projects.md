@@ -10,12 +10,14 @@ redirect_from:
 
 {% include base_path %}
 
+
+  <!-- <hr style="width: 50%; margin: 0.8rem auto 1.5rem auto; border-top: 1px solid #eee;"> -->
+  <p style="text-align: center; font-size: 1.0rem; color: #888; margin-bottom: 2rem;">
+    * indicates equal contribution
+  </p>
+
 <div class="has-text-centered">
   <h2 class="title is-3" style="text-align: center; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">Robot Social Navigation</h2>
-  <hr style="width: 50%; margin: 0.8rem auto 1.5rem auto; border-top: 1px solid #eee;">
-  <p style="text-align: center; font-size: 0.85rem; color: #888; margin-bottom: 2rem;">
-    (* indicates equal contribution)
-  </p>
 </div>
 
 <div style="display: flex; flex-direction: column; gap: 0px; align-items: center;">
@@ -59,13 +61,13 @@ redirect_from:
       <p style="font-size: 0.9rem; color: #555; font-family: 'Segoe UI', Roboto, Arial, sans-serif; margin-bottom: 8px;">
         <strong><u>Han Bao</u></strong><sup>*</sup>, Bingyi Xia<sup>*</sup>, Hanjing Ye, Yu Zhan, Hao Cheng, Baozhi Jia, Wenjun Xu, Jiankun Wang
       </p>
-      <p style="font-size: 0.9rem; color: #333; margin-bottom: 12px; font-weight: 600;">
+      <p style="font-size: 0.9rem; color: #555; font-family: 'Segoe UI', Roboto, Arial, sans-serif; margin-bottom: 8px;">
         IEEE Robotics and Automation Letters (RA-L)
       </p>
       <div style="font-size: 0.85rem; font-family: 'Segoe UI', sans-serif; display: flex; gap: 15px;">
-        <a href="https://broln7.github.io/socialbev.io/" target="_blank" style="color: #007BFF; text-decoration: none; font-weight: 500;">[Project]</a>
-        <a href="https://github.com/BRoln7/socialbev_test/" target="_blank" style="color: #007BFF; text-decoration: none; font-weight: 500;">[Code]</a>
-        <a href="https://ieeexplore.ieee.org/document/11456337" target="_blank" style="color: #007BFF; text-decoration: none; font-weight: 500;">[DOI]</a>
+        <a href="https://broln7.github.io/socialbev.io/" target="_blank" style="color: #87CEEB; text-decoration: none; font-weight: 500;">[Project]</a>
+        <a href="https://github.com/BRoln7/socialbev_test/" target="_blank" style="color: #87CEEB; text-decoration: none; font-weight: 500;">[Code]</a>
+        <a href="https://ieeexplore.ieee.org/document/11456337" target="_blank" style="color: #87CEEB; text-decoration: none; font-weight: 500;">[DOI]</a>
       </div>
     </div>
   </div>

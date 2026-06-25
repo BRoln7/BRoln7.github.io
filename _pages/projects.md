@@ -33,7 +33,7 @@ redirect_from:
         NavIsaacLab: Generating Realistic Crowd via Parallel Robot Learning for Benchmarking Human-aware Navigation
       </h2>
       <p style="font-size: 0.9rem; color: #555; font-family: 'Segoe UI', Roboto, Arial, sans-serif; margin-bottom: 8px;">
-        Bingyi Xia<sup>*</sup>, <strong><u>Han Bao</u></strong><sup>*</sup>, Jingyu Zhu, Hanjing Ye, Yuhan Pang, Guangcheng Chen, Liang Lin, Zhengyou Zhang, Wenjun Xu, Jiankun Wang
+        Bingyi Xia<sup>*</sup>, <strong><u>Han Bao</u></strong><sup>*</sup>, Jingyu Zhu, Hanjing Ye, Yuhan Pang, Guangcheng Chen, Liang Lin, Wenjun Xu, Jiankun Wang
       </p>
       <p style="font-size: 0.9rem; color: #999; margin-bottom: 12px; font-weight: 500;">
         Under review
@@ -67,6 +67,7 @@ redirect_from:
         <a href="https://broln7.github.io/socialbev.io/" target="_blank" style="color: #87CEEB; text-decoration: none; font-weight: 500;">[Project]</a>
         <a href="https://github.com/BRoln7/socialbev_test/" target="_blank" style="color: #87CEEB; text-decoration: none; font-weight: 500;">[Code]</a>
         <a href="https://ieeexplore.ieee.org/document/11456337" target="_blank" style="color: #87CEEB; text-decoration: none; font-weight: 500;">[DOI]</a>
+        <a href="https://arxiv.org/abs/2606.26047" target="_blank" style="color: #87CEEB; text-decoration: none; font-weight: 500;">[PrePrint]</a>
       </div>
     </div>
   </div>

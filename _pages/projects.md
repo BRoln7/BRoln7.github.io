@@ -39,7 +39,7 @@ redirect_from:
         Under review
       </p>
       <div style="font-size: 0.85rem; font-family: 'Segoe UI', sans-serif;">
-        <a href="https://arxiv.org/abs/2606.26265" target="_blank" style="color: #87CEEB; text-decoration: none; font-weight: 500;">[PrePrint]</a>
+        <a href="https://arxiv.org/abs/2606.26265" target="_blank" style="color: rgb(98, 192, 229); text-decoration: none; font-weight: 500;">PrePrint</a>
       </div>
     </div>
   </div>
@@ -60,14 +60,14 @@ redirect_from:
       <p style="font-size: 0.9rem; color: #555; font-family: 'Segoe UI', Roboto, Arial, sans-serif; margin-bottom: 8px;">
         <strong><u>Han Bao</u></strong><sup>*</sup>, Bingyi Xia<sup>*</sup>, Hanjing Ye, Yu Zhan, Hao Cheng, Baozhi Jia, Wenjun Xu, Jiankun Wang
       </p>
-      <p style="font-size: 0.9rem; color: #555; font-family: 'Segoe UI', Roboto, Arial, sans-serif; margin-bottom: 8px;">
+      <p style="font-size: 0.9rem; color: #999; margin-bottom: 12px; font-weight: 500;">
         IEEE Robotics and Automation Letters (RA-L)
       </p>
       <div style="font-size: 0.85rem; font-family: 'Segoe UI', sans-serif; display: flex; gap: 15px;">
-        <a href="https://broln7.github.io/socialbev.io/" target="_blank" style="color: #87CEEB; text-decoration: none; font-weight: 500;">[Project]</a>
-        <a href="https://github.com/BRoln7/socialbev_test/" target="_blank" style="color: #87CEEB; text-decoration: none; font-weight: 500;">[Code]</a>
-        <a href="https://ieeexplore.ieee.org/document/11456337" target="_blank" style="color: #87CEEB; text-decoration: none; font-weight: 500;">[DOI]</a>
-        <a href="https://arxiv.org/abs/2606.26047" target="_blank" style="color: #87CEEB; text-decoration: none; font-weight: 500;">[PrePrint]</a>
+        <a href="https://broln7.github.io/socialbev.io/" target="_blank" style="color:rgb(98, 192, 229); text-decoration: none; font-weight: 500;">Project</a>
+        <a href="https://github.com/BRoln7/socialbev_test/" target="_blank" style="color: rgb(98, 192, 229); text-decoration: none; font-weight: 500;">Code</a>
+        <a href="https://ieeexplore.ieee.org/document/11456337" target="_blank" style="color: rgb(98, 192, 229); text-decoration: none; font-weight: 500;">DOI</a>
+        <a href="https://arxiv.org/abs/2606.26047" target="_blank" style="color: rgb(98, 192, 229); text-decoration: none; font-weight: 500;">PrePrint</a>
       </div>
     </div>
   </div>

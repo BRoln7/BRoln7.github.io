@@ -38,9 +38,9 @@ redirect_from:
       <p style="font-size: 0.9rem; color: #999; margin-bottom: 12px; font-weight: 500;">
         Under review
       </p>
-      <!-- <div style="font-size: 0.85rem; font-family: 'Segoe UI', sans-serif;">
-        <a href="https://broln7.github.io/NavIsaacLab-web/" target="_blank" style="color: #007BFF; text-decoration: none; font-weight: 500;">[Project]</a>
-      </div> -->
+      <div style="font-size: 0.85rem; font-family: 'Segoe UI', sans-serif;">
+        <a href="https://arxiv.org/abs/2606.26265" target="_blank" style="color: #87CEEB; text-decoration: none; font-weight: 500;">[PrePrint]</a>
+      </div>
     </div>
   </div>
 

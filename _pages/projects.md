@@ -15,11 +15,11 @@ redirect_from:
     * indicates equal contribution
   </p>
 
-<div class="has-text-centered">
-  <h2 class="title is-3" style="text-align: center; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">Robot Social Navigation</h2>
+<!-- <div class="has-text-centered">
+  <h2 class="title is-3" style="text-align: center; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">Robot Navigation</h2>
 </div>
   <hr style="width: 50%; margin: 0.8rem auto 1.5rem auto; border-top: 1px solid #eee;">
-<div style="display: flex; flex-direction: column; gap: 0px; align-items: center;">
+<div style="display: flex; flex-direction: column; gap: 0px; align-items: center;"> -->
 
   <div style="display: flex; align-items: flex-start; width: 100%; max-width: 850px; padding-bottom: 20px;">
     <div style="flex: 0 0 35%; height: 180px; background-color: #f9f9f9; margin-right: 25px; 
@@ -68,6 +68,7 @@ redirect_from:
         <a href="https://github.com/BRoln7/socialbev_test/" target="_blank" style="color: rgb(98, 192, 229); text-decoration: none; font-weight: 500;">Code</a>
         <a href="https://ieeexplore.ieee.org/document/11456337" target="_blank" style="color: rgb(98, 192, 229); text-decoration: none; font-weight: 500;">DOI</a>
         <a href="https://arxiv.org/abs/2606.26047" target="_blank" style="color: rgb(98, 192, 229); text-decoration: none; font-weight: 500;">PrePrint</a>
+        <a href="https://mp.weixin.qq.com/s/pJwjolifCk6YkHWErlI1ZQ" target="_blank" style="color: rgb(98, 192, 229); text-decoration: none; font-weight: 500;">Chinese report(by VLNer)</a>        
       </div>
     </div>
   </div>

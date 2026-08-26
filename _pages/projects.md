@@ -42,7 +42,8 @@ redirect_from:
   .project-item__thumb a {
     display: block;
   }
-  .project-item__thumb img {
+  .project-item__thumb img,
+  .project-item__thumb video {
     display: block;
     width: 100%;
     height: auto;
@@ -156,7 +157,7 @@ redirect_from:
   <article class="project-item">
     <div class="project-item__thumb">
       <a href="https://arxiv.org/pdf/2608.16476" target="_blank">
-        <img src="https://i.imgur.com/aouop2L.png" alt="wildnav">
+        <img src="/images/wildnav-gif.gif" alt="wildnav">
       </a>
     </div>
     <div class="project-item__body">

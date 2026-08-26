@@ -20,6 +20,8 @@ Currently, I am working on developing an efficient, safe, and human-centric robo
 </p>
 
 ## News
+- 2026.08: One paper is available on arXiv, titled “Exposing the Long-tail in Embodied Urban Navigation via Scalable Learning from In-the-Wild Videos”.
+
 - 2026.06: One paper is available on arXiv, titled “NavIsaacLab: Generating Realistic Crowd via Parallel Robot Learning for Benchmarking Human-aware Navigation”.
 
 - 2026.03: 🎉🎉🍺🍺 Our paper titled "Learning Robot Visual Navigation in Crowds via Intention-Aware Scene Representations" has been accepted by IEEE Robotics and Automation Letters (RA-L)!

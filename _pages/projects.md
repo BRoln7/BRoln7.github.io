@@ -63,6 +63,30 @@ redirect_from:
   .project-card__thumb:hover img {
     transform: scale(1.05);
   }
+  .project-card__thumb--contain {
+    height: auto;
+    min-height: 180px;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+  }
+  .project-card__thumb--contain a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+  }
+  .project-card__thumb--contain img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    object-position: center;
+    background: #f5f7f8;
+  }
+  .project-card__thumb--contain:hover img {
+    transform: none;
+  }
   .project-card__body {
     flex: 1;
     min-width: 0;
@@ -198,6 +222,28 @@ redirect_from:
         <a href="https://ieeexplore.ieee.org/document/11456337" target="_blank"><i class="fa-solid fa-link"></i> DOI</a>
         <a href="https://arxiv.org/abs/2606.26047" target="_blank"><i class="fa-solid fa-file-lines"></i> PrePrint</a>
         <a href="https://mp.weixin.qq.com/s/pJwjolifCk6YkHWErlI1ZQ" target="_blank"><i class="fa-solid fa-newspaper"></i> Chinese report (VLNer)</a>
+      </div>
+    </div>
+  </article>
+
+  <article class="project-card">
+    <div class="project-card__thumb project-card__thumb--contain">
+      <a href="https://broln7.github.io/projects/" target="_blank">
+        <img src="https://i.imgur.com/aouop2L.png" alt="wildnav">
+      </a>
+    </div>
+    <div class="project-card__body">
+      <h2 class="project-card__title">
+        Exposing the Long-tail in Embodied Urban Navigation via Scalable Learning from In-the-Wild Videos
+      </h2>
+      <p class="project-card__authors">
+        Bingyi Xia, <strong><u>Han Bao</u></strong>, Zhewei Chen, Hanjing Ye, Jingwen Yu, Yuhan Pang, Wenjun Xu, Jiankun Wang
+      </p>
+      <p class="project-card__venue project-card__venue--review">
+        <i class="fa-solid fa-clock"></i> Under review
+      </p>
+      <div class="project-links">
+        <a href="https://arxiv.org/pdf/2608.16476" target="_blank"><i class="fa-solid fa-file-lines"></i> PrePrint</a>
       </div>
     </div>
   </article>

@@ -196,6 +196,7 @@ redirect_from:
       </p>
       <div class="project-links">
         <a href="https://arxiv.org/abs/2606.26265" target="_blank"><i class="fa-solid fa-file-lines"></i> PrePrint</a>
+        <a href="https://broln7.github.io/NavIsaacLab-web/" target="_blank"><i class="fa-solid fa-file-lines"></i> Project</a>
       </div>
     </div>
   </article>

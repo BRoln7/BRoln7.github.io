@@ -117,7 +117,7 @@ redirect_from:
       <p class="project-item__authors">
         Bingyi Xia<sup>*</sup>, <strong><u>Han Bao</u></strong><sup>*</sup>, Jingyu Zhu, Hanjing Ye, Yuhan Pang, Guangcheng Chen, Liang Lin, Wenjun Xu, Jiankun Wang
       </p>
-      <p class="project-item__venue">Under review</p>
+      <p class="project-item__venue">IEEE Transactions on Automation Science and Engineering (T-ASE)</p>
       <div class="project-item__links">
         <a href="https://arxiv.org/abs/2606.26265" target="_blank">PrePrint</a>
         <span class="sep">|</span>

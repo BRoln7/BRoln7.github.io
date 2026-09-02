@@ -20,6 +20,8 @@ Currently, I am developing efficient and generalizable Physical AI that aligns w
 </p>
 
 ## News
+- 2026.09: NavIsaacLab is accepted by IEEE T-ASE!
+
 - 2026.08: One paper is available on arXiv, titled “Exposing the Long-tail in Embodied Urban Navigation via Scalable Learning from In-the-Wild Videos”.
 
 - 2026.06: One paper is available on arXiv, titled “NavIsaacLab: Generating Realistic Crowd via Parallel Robot Learning for Benchmarking Human-aware Navigation”.

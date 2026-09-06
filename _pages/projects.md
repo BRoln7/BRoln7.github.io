@@ -36,6 +36,7 @@ redirect_from:
     border-bottom: none;
   }
   .project-item__thumb {
+    position: relative;
     flex: 0 0 32%;
     max-width: 280px;
   }
@@ -48,6 +49,23 @@ redirect_from:
     width: 100%;
     height: auto;
     border-radius: 4px;
+  }
+  .project-item__badge {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    padding: 3px 9px;
+    background: #2b7bb9;
+    color: #fff;
+    font-size: 0.68rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    line-height: 1.3;
+    text-transform: uppercase;
+    border-radius: 3px;
+    pointer-events: none;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   }
   .project-item__body {
     flex: 1;
@@ -106,6 +124,7 @@ redirect_from:
 
   <article class="project-item">
     <div class="project-item__thumb">
+      <span class="project-item__badge">TASE</span>
       <a href="https://broln7.github.io/NavIsaacLab-web/" target="_blank">
         <img src="https://i.imgur.com/vwH6p1V.png" alt="NavIsaacLab">
       </a>
@@ -117,7 +136,7 @@ redirect_from:
       <p class="project-item__authors">
         Bingyi Xia<sup>*</sup>, <strong><u>Han Bao</u></strong><sup>*</sup>, Jingyu Zhu, Hanjing Ye, Yuhan Pang, Guangcheng Chen, Liang Lin, Wenjun Xu, Jiankun Wang
       </p>
-      <p class="project-item__venue">IEEE Transactions on Automation Science and Engineering (T-ASE)</p>
+      <p class="project-item__venue">IEEE Transactions on Automation Science and Engineering</p>
       <div class="project-item__links">
         <a href="https://arxiv.org/abs/2606.26265" target="_blank">PrePrint</a>
         <span class="sep">|</span>
@@ -128,6 +147,7 @@ redirect_from:
 
   <article class="project-item">
     <div class="project-item__thumb">
+      <span class="project-item__badge">RAL</span>
       <a href="https://broln7.github.io/socialbev.io/" target="_blank">
         <img src="https://i.imgur.com/7TBtszI.png" alt="Social-BEV">
       </a>
@@ -139,7 +159,7 @@ redirect_from:
       <p class="project-item__authors">
         <strong><u>Han Bao</u></strong><sup>*</sup>, Bingyi Xia<sup>*</sup>, Hanjing Ye, Yu Zhan, Hao Cheng, Baozhi Jia, Wenjun Xu, Jiankun Wang
       </p>
-      <p class="project-item__venue">IEEE Robotics and Automation Letters (RA-L)</p>
+      <p class="project-item__venue">IEEE Robotics and Automation Letters</p>
       <div class="project-item__links">
         <a href="https://broln7.github.io/socialbev.io/" target="_blank">Project</a>
         <span class="sep">|</span>
@@ -156,6 +176,7 @@ redirect_from:
 
   <article class="project-item">
     <div class="project-item__thumb">
+      <span class="project-item__badge">ArXiv</span>
       <a href="https://arxiv.org/pdf/2608.16476" target="_blank">
         <img src="/images/wildnav-gif.gif" alt="wildnav">
       </a>

@@ -60,9 +60,8 @@ redirect_from:
     color: #fff;
     font-size: 0.68rem;
     font-weight: 700;
-    letter-spacing: 0.04em;
+    letter-spacing: 0.02em;
     line-height: 1.3;
-    text-transform: uppercase;
     border-radius: 3px;
     pointer-events: none;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;

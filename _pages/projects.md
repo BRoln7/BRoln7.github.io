@@ -190,6 +190,8 @@ redirect_from:
       <p class="project-item__venue">Under review</p>
       <div class="project-item__links">
         <a href="https://arxiv.org/pdf/2608.16476" target="_blank">PrePrint</a>
+        <span class="sep">|</span>
+        <a href="https://broln7.github.io/wildnav-web/" target="_blank">Project</a>
       </div>
     </div>
   </article>

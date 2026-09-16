@@ -140,6 +140,8 @@ redirect_from:
         <a href="https://arxiv.org/abs/2606.26265" target="_blank">PrePrint</a>
         <span class="sep">|</span>
         <a href="https://broln7.github.io/NavIsaacLab-web/" target="_blank">Project</a>
+        <span class="sep">|</span>
+        <a href="https://github.com/yh83305/NavIsaaclab2.0" target="_blank">Code</a>
       </div>
     </div>
   </article>
@@ -162,7 +164,7 @@ redirect_from:
       <div class="project-item__links">
         <a href="https://broln7.github.io/socialbev.io/" target="_blank">Project</a>
         <span class="sep">|</span>
-        <a href="https://github.com/BRoln7/socialbev_test/" target="_blank">Code</a>
+        <a href="https://github.com/BRoln7/icrowdnav" target="_blank">Code</a>
         <span class="sep">|</span>
         <a href="https://ieeexplore.ieee.org/document/11456337" target="_blank">DOI</a>
         <span class="sep">|</span>

@@ -16,7 +16,7 @@ where I built the foundation for my studies in robotics.
 </p>
 <p align="justify">
 My research interests are in robot learning, with a focus on embodied navigation and reinforcement learning for robotics. 
-Currently, I am developing efficient and generalizable Physical AI that aligns with humans in complex urban environments.
+Currently, I am developing efficient and generalizable Physical AI for human–robot interaction in complex environments.
 </p>
 
 ## News

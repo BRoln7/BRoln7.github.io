@@ -137,11 +137,11 @@ redirect_from:
       </p>
       <p class="project-item__venue">IEEE Transactions on Automation Science and Engineering</p>
       <div class="project-item__links">
-        <a href="https://arxiv.org/abs/2606.26265" target="_blank">PrePrint</a>
-        <span class="sep">|</span>
         <a href="https://broln7.github.io/NavIsaacLab-web/" target="_blank">Project</a>
         <span class="sep">|</span>
         <a href="https://github.com/yh83305/NavIsaaclab2.0" target="_blank">Code</a>
+        <span class="sep">|</span>
+        <a href="https://arxiv.org/abs/2606.26265" target="_blank">PrePrint</a>
       </div>
     </div>
   </article>
@@ -191,9 +191,9 @@ redirect_from:
       </p>
       <p class="project-item__venue">Under review</p>
       <div class="project-item__links">
-        <a href="https://arxiv.org/pdf/2608.16476" target="_blank">PrePrint</a>
-        <span class="sep">|</span>
         <a href="https://broln7.github.io/wildnav-web/" target="_blank">Project</a>
+        <span class="sep">|</span>
+        <a href="https://arxiv.org/pdf/2608.16476" target="_blank">PrePrint</a>
       </div>
     </div>
   </article>

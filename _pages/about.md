@@ -34,7 +34,7 @@ My research interests lie at the intersection of robotics and machine learning, 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
   <img src="https://i.imgur.com/9ytib4N.png" alt="SUSTech Logo" width="50" style="margin-right: 10px;">
   <div>
-    <strong>Southern University of Science and Technology (SUSTech)</strong><br>
+    <strong>Southern University of Science and Technology</strong><br>
     M.Sc. in Electrical and Electronic Engineering<br>
     2024.9 - Present<br>
   </div>
@@ -43,18 +43,15 @@ My research interests lie at the intersection of robotics and machine learning, 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
   <img src="https://i.imgur.com/690F8JY.png" alt="ZJUT Logo" width="50" style="margin-right: 10px;">
   <div>
-    <strong>Zhejiang University of Technology (ZJUT)</strong><br>
+    <strong>Zhejiang University of Technology</strong><br>
     B.Eng. in Robotics<br>
     2020.10 - 2024.6<br>
   </div>
 </div>
 
 ## Academic Service
-**Journal & Conference Reviewer**
-- IEEE Robotics and Automation Letters (RA-L)
-- IEEE Transactions on Automation Science and Engineering (T-ASE)
-- IEEE International Conference on Robotics and Automation (ICRA)
-- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+- **Journal Reviewer:** TASE,RAL
+- **Conference Reviewer:** ICRA,IROS
 
 
 <!-- <div style="width:300px; margin: 0 auto;">

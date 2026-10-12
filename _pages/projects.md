@@ -229,6 +229,9 @@ redirect_from:
     </div>
     <div class="project-item__body">
       <h2 class="project-item__title">Pointfoot biped Robot Locomotion</h2>
+      <p class="project-item__authors">
+        Siyuan Wang, Han Bao
+      </p>
       <p class="project-item__venue">SUSTech SDM5008: Advanced Control for Robotics Course Project </p>
       <div class="project-item__links">
         <a href="https://www.bilibili.com/video/BV1MRraYDEyH/?buvid=XX9CD8A9FD27DAFF4C6F4BAD102D80FA53C17&from_spmid=dt.space-dt.video.0&is_story_h5=false&mid=jG%2FBIse%2FtP6xHbtN9CiFYw%3D%3D&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=5cf9ff6b-72c0-4c30-b29c-9c183a7d35cc&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1791795971&unique_k=hUbgYrZ&up_id=80284430&vd_source=687a8e52be37ec621f65b9b2e3e91855" target="_blank">Video</a>

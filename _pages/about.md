@@ -10,7 +10,7 @@ redirect_from:
 <p align="justify">
 I am a master's student in the <em>Robotics Perception &amp; Intelligence Lab (rπ Lab)</em> at <a href="https://www.sustech.edu.cn/">SUSTech</a>. 
 The lab is co-led by Prof. <a href="https://www.ee.cuhk.edu.hk/~qhmeng/about.html">Max Q.-H. Meng</a> and Prof. <a href="https://scholar.google.com/citations?user=08U8joq2FOQC&hl=en&oi=ao">Jiankun Wang</a>, 
-and I work closely with <a href="https://leele-bing.github.io/">Mr. Bingyi Xia</a> and <a href="https://medlartea.github.io/">Dr. Hanjing Ye</a>. 
+where I work closely with <a href="https://leele-bing.github.io/">Mr. Bingyi Xia</a> and <a href="https://medlartea.github.io/">Dr. Hanjing Ye</a>. 
 
 <!-- In 2024, I received my B.E. degree in robotics from <a href="https://www.zjut.edu.cn/">Zhejiang University of Technology</a>, 
 where I built the foundation for my studies in robotics.  -->

@@ -153,11 +153,11 @@ redirect_from:
       </p>
       <p class="project-item__venue">IEEE Transactions on Automation Science and Engineering</p>
       <div class="project-item__links">
-        <a href="https://broln7.github.io/NavIsaacLab-web/" target="_blank">Project</a>
+        <a href="https://broln7.github.io/NavIsaacLab-web/" target="_blank"><i class="fas fa-globe" aria-hidden="true"></i> Project</a>
         <span class="sep">|</span>
-        <a href="https://github.com/yh83305/NavIsaaclab2.0" target="_blank">Code</a>
+        <a href="https://github.com/BRoln7/navisaaclab" target="_blank"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
         <span class="sep">|</span>
-        <a href="https://arxiv.org/abs/2606.26265" target="_blank">PrePrint</a>
+        <a href="https://arxiv.org/abs/2606.26265" target="_blank"><i class="fas fa-file-pdf" aria-hidden="true"></i> PrePrint</a>
       </div>
     </div>
   </article>
@@ -178,15 +178,15 @@ redirect_from:
       </p>
       <p class="project-item__venue">IEEE Robotics and Automation Letters</p>
       <div class="project-item__links">
-        <a href="https://broln7.github.io/socialbev.io/" target="_blank">Project</a>
+        <a href="https://broln7.github.io/socialbev.io/" target="_blank"><i class="fas fa-globe" aria-hidden="true"></i> Project</a>
         <span class="sep">|</span>
-        <a href="https://github.com/BRoln7/icrowdnav" target="_blank">Code</a>
+        <a href="https://github.com/BRoln7/icrowdnav" target="_blank"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
         <span class="sep">|</span>
-        <a href="https://ieeexplore.ieee.org/document/11456337" target="_blank">DOI</a>
+        <a href="https://ieeexplore.ieee.org/document/11456337" target="_blank"><i class="ai ai-doi" aria-hidden="true"></i> DOI</a>
         <span class="sep">|</span>
-        <a href="https://arxiv.org/abs/2606.26047" target="_blank">PrePrint</a>
+        <a href="https://arxiv.org/abs/2606.26047" target="_blank"><i class="fas fa-file-pdf" aria-hidden="true"></i> PrePrint</a>
         <span class="sep">|</span>
-        <a href="https://mp.weixin.qq.com/s/pJwjolifCk6YkHWErlI1ZQ" target="_blank">Chinese report (VLNer)</a>
+        <a href="https://mp.weixin.qq.com/s/pJwjolifCk6YkHWErlI1ZQ" target="_blank"><i class="fab fa-weixin" aria-hidden="true"></i> Chinese report (VLNer)</a>
       </div>
     </div>
   </article>
@@ -207,9 +207,9 @@ redirect_from:
       </p>
       <p class="project-item__venue">Under review</p>
       <div class="project-item__links">
-        <a href="https://broln7.github.io/wildnav-web/" target="_blank">Project</a>
+        <a href="https://broln7.github.io/wildnav-web/" target="_blank"><i class="fas fa-globe" aria-hidden="true"></i> Project</a>
         <span class="sep">|</span>
-        <a href="https://arxiv.org/pdf/2608.16476" target="_blank">PrePrint</a>
+        <a href="https://arxiv.org/pdf/2608.16476" target="_blank"><i class="fas fa-file-pdf" aria-hidden="true"></i> PrePrint</a>
       </div>
     </div>
   </article>
@@ -219,6 +219,20 @@ redirect_from:
 <h2 class="project-section">Robot Control</h2>
 
 <div class="project-list">
+
+  <article class="project-item">
+    <div class="project-item__thumb">
+      <img src="/images/amp_loco.gif" alt="Controllable Pedestrian Animation via Adversarial Motion Priors">
+    </div>
+    <div class="project-item__body">
+      <h2 class="project-item__title">
+        Controllable Pedestrian Animation via Adversarial Motion Priors
+      </h2>
+      <div class="project-item__links">
+        <a href="https://github.com/BRoln7/navisaaclab" target="_blank"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
+      </div>
+    </div>
+  </article>
 
   <article class="project-item">
     <div class="project-item__thumb">
@@ -234,9 +248,9 @@ redirect_from:
       </p>
       <p class="project-item__venue">SUSTech SDM5008: Advanced Control for Robotics Course Project </p>
       <div class="project-item__links">
-        <a href="https://www.bilibili.com/video/BV1MRraYDEyH/?buvid=XX9CD8A9FD27DAFF4C6F4BAD102D80FA53C17&from_spmid=dt.space-dt.video.0&is_story_h5=false&mid=jG%2FBIse%2FtP6xHbtN9CiFYw%3D%3D&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=5cf9ff6b-72c0-4c30-b29c-9c183a7d35cc&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1791795971&unique_k=hUbgYrZ&up_id=80284430&vd_source=687a8e52be37ec621f65b9b2e3e91855" target="_blank">Video</a>
+        <a href="https://www.bilibili.com/video/BV1MRraYDEyH/?buvid=XX9CD8A9FD27DAFF4C6F4BAD102D80FA53C17&from_spmid=dt.space-dt.video.0&is_story_h5=false&mid=jG%2FBIse%2FtP6xHbtN9CiFYw%3D%3D&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=5cf9ff6b-72c0-4c30-b29c-9c183a7d35cc&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1791795971&unique_k=hUbgYrZ&up_id=80284430&vd_source=687a8e52be37ec621f65b9b2e3e91855" target="_blank"><i class="fab fa-youtube" aria-hidden="true"></i> Video</a>
         <span class="sep">|</span>
-        <a href="/assets/pdfs/acr_course_report.pdf" target="_blank">Report</a>
+        <a href="/assets/pdfs/acr_course_report.pdf" target="_blank"><i class="fas fa-file-pdf" aria-hidden="true"></i> Report</a>
       </div>
     </div>
   </article>

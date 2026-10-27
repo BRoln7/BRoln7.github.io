@@ -228,6 +228,10 @@ redirect_from:
       <h2 class="project-item__title">
         Controllable Pedestrian Animation via Adversarial Motion Priors
       </h2>
+      <p class="project-item__authors">
+        Han Bao
+      </p>
+      <p class="project-item__venue">Pedestrian Simulation Solution</p>
       <div class="project-item__links">
         <a href="https://github.com/BRoln7/navisaaclab" target="_blank"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
       </div>

@@ -231,7 +231,7 @@ redirect_from:
       <p class="project-item__authors">
         Han Bao
       </p>
-      <p class="project-item__venue">Pedestrian Simulation Solution</p>
+      <p class="project-item__venue">Controllable Pedestrian Simulation Solution</p>
       <div class="project-item__links">
         <a href="https://github.com/BRoln7/navisaaclab" target="_blank"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
       </div>

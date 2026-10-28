@@ -233,7 +233,7 @@ redirect_from:
       </p>
       <p class="project-item__venue">Controllable Pedestrian Simulation Solution</p>
       <div class="project-item__links">
-        <a href="https://github.com/BRoln7/navisaaclab" target="_blank"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
+        <a href="[https://github.com/BRoln7/navisaaclab](https://github.com/BRoln7/navisaaclab#amp-locomotion)" target="_blank"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
       </div>
     </div>
   </article>

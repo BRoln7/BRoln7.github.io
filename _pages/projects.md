@@ -250,10 +250,7 @@ redirect_from:
       <h2 class="project-item__title">Pointfoot biped Robot Locomotion</h2>
       <p class="project-item__authors">
         Siyuan Wang, Han Bao
-      <!-- </p>
-      <p class="project-item__authors">
-        Instructor: Prof. Wei Zhang
-      </p> -->
+      </p>
       <p class="project-item__venue">SUSTech SDM5008: Advanced Robot Control</p>
       <p class="project-item__venue">Instructor: Prof. Wei Zhang</p>
       <div class="project-item__links">

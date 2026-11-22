@@ -73,12 +73,12 @@ redirect_from:
     background: #2b7bb9;
     color: #fff;
     font-size: 0.68rem;
-    font-weight: 700;
-    letter-spacing: 0.02em;
+    font-weight: 600;
+    letter-spacing: 0.035em;
     line-height: 1.3;
     border-radius: 3px;
     pointer-events: none;
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: "Arial Rounded MT Bold", ui-rounded, "SF Pro Rounded", "Trebuchet MS", sans-serif;
   }
   .project-item__body {
     flex: 1;
@@ -141,7 +141,7 @@ redirect_from:
     <div class="project-item__thumb">
       <span class="project-item__badge">T-ASE</span>
       <a href="https://broln7.github.io/NavIsaacLab-web/" target="_blank">
-        <img src="https://i.imgur.com/vwH6p1V.png" alt="NavIsaacLab">
+        <img src="/images/navisaaclab.png" alt="NavIsaacLab">
       </a>
     </div>
     <div class="project-item__body">
@@ -166,7 +166,7 @@ redirect_from:
     <div class="project-item__thumb">
       <span class="project-item__badge">RA-L</span>
       <a href="https://broln7.github.io/socialbev.io/" target="_blank">
-        <img src="https://i.imgur.com/7TBtszI.png" alt="Social-BEV">
+        <img src="/images/social-bev.png" alt="Social-BEV">
       </a>
     </div>
     <div class="project-item__body">

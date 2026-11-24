@@ -20,6 +20,9 @@ My research interests lie at the intersection of robotics and machine learning, 
 </p>
 
 ## News
+
+<div class="news-scroll" markdown="1" role="region" aria-label="News" tabindex="0">
+
 - 2026.11: 🎉 NavIsaacLab has been accepted by IEEE Transactions on Automation Science and Engineering (T-ASE)!
 
 - 2026.08: One paper is available on arXiv, titled “Exposing the Long-tail in Embodied Urban Navigation via Scalable Learning from In-the-Wild Videos”.
@@ -28,6 +31,8 @@ My research interests lie at the intersection of robotics and machine learning, 
 
 - 2026.03: 🎉🎉🍺🍺 Our paper titled "Learning Robot Visual Navigation in Crowds via Intention-Aware Scene Representations" has been accepted by IEEE Robotics and Automation Letters (RA-L)!
 - 2025.01: My personal website is live!
+
+</div>
 
 ## Education
 

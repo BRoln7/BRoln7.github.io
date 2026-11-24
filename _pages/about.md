@@ -20,7 +20,7 @@ My research interests lie at the intersection of robotics and machine learning, 
 </p>
 
 ## News
-<!-- - 2026.09: NavIsaacLab is accepted by IEEE T-ASE! -->
+- 2026.11: 🎉 NavIsaacLab has been accepted by IEEE Transactions on Automation Science and Engineering (T-ASE)!
 
 - 2026.08: One paper is available on arXiv, titled “Exposing the Long-tail in Embodied Urban Navigation via Scalable Learning from In-the-Wild Videos”.
 
